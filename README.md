@@ -1,5 +1,5 @@
-#Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+Vrinda Store Annual Sales Report 2025
 
-##Project Objective
-
-The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+ Project Objective
+ 
+To analyze and visualize annual sales performance for Vrinda Store using interactive dashboards in Excel. The key goal is to gain insights into sales distribution by month, region, product category, customer demographics, order status, and channels.
